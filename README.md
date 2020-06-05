@@ -20,5 +20,8 @@ hidenav function
 	hid navbar when you are not scrolling and you not one the top of the screen
 showNav function
     highlight which section you read both on the navbar or on the section element as a whole
+    
+## deployment 
+https://ahmedsalam22.github.io/landing-page/
 
 
